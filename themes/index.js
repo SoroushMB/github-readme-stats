@@ -361,6 +361,13 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   }
+  Starfire: {
+    title_color: "a277ff",
+    icon_color: "ffca85",
+    text_color: "61ffca",
+    bg_color: "15141b",
+    border_color: "0c1a25",
+  },
 };
 
 module.exports = themes;
